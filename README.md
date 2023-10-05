@@ -1,4 +1,6 @@
 # CCR-Insight-Reporter
+**This script is still in progress and not yet functional**
+
 Calculates CCR data according to MSIP 6 from various separate reports
 The general report for this data has been named "starship" and will be referenced as this at different points. 
 
